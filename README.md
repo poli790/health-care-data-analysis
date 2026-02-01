@@ -1,5 +1,9 @@
 # Healthcare Data Analysis: Patient Outcomes & Resource Optimization
 
+# Healthcare Analytics Dashboard Project
+
+[Preview of the Healthcare Dashboard](dashboard)
+
 ## 🏥 Project Overview
 This is a **demonstration project** showcasing data analysis skills applied to healthcare analytics. Using Python and statistical analysis, I created an end-to-end pipeline for analyzing patient data, hospital resource utilization, and clinical outcomes to support data-driven healthcare decisions.
 
